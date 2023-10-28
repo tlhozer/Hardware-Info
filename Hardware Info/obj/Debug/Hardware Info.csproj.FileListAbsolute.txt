@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Projects\Hardware Info\bin\Debug\Hardware Info.exe.config
+C:\Users\admin\Desktop\Projects\Hardware Info\bin\Debug\Hardware Info.exe
+C:\Users\admin\Desktop\Projects\Hardware Info\bin\Debug\Hardware Info.pdb
+C:\Users\admin\Desktop\Projects\Hardware Info\obj\Debug\Hardware Info.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\Hardware Info\obj\Debug\Hardware_Info.Form1.resources
+C:\Users\admin\Desktop\Projects\Hardware Info\obj\Debug\Hardware_Info.Properties.Resources.resources
+C:\Users\admin\Desktop\Projects\Hardware Info\obj\Debug\Hardware Info.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Projects\Hardware Info\obj\Debug\Hardware Info.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\Hardware Info\obj\Debug\Hardware Info.exe
+C:\Users\admin\Desktop\Projects\Hardware Info\obj\Debug\Hardware Info.pdb
+C:\Users\admin\Desktop\Projects\Hardware Info\bin\Debug\DeviceInfo.dll
+C:\Users\admin\Desktop\Projects\Hardware Info\bin\Debug\DeviceInfo.pdb
+C:\Users\admin\Desktop\Projects\Hardware Info\obj\Debug\Hardware Info.csproj.CopyComplete
